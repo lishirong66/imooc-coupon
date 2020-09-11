@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5a50f807-f831-4257-acae-799b4360af27" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\java\repository_pinyougou" />
+        <option name="mavenHome" value="D:\java\apache-maven-3.5.3" />
+        <option name="userSettingsFile" value="D:\java\apache-maven-3.5.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1eRNQtKDcne8UfI2tDUijOr0O6w" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.TemplateApplication">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DistributionApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="coupon-distribution" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.imooc.coupon.DistributionApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="coupon-eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.imooc.coupon.EurekaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SettlementApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="coupon-settlement" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.imooc.coupon.SettlementApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TemplateApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="coupon-template" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.imooc.coupon.TemplateApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZuulGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="coupon-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.imooc.coupon.ZuulGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\lishirong\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a50f807-f831-4257-acae-799b4360af27" name="Default Changelist" comment="" />
+      <created>1587564508523</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587564508523</updated>
+      <workItem from="1587564513362" duration="4006000" />
+      <workItem from="1587619973636" duration="7811000" />
+      <workItem from="1587718401644" duration="2286000" />
+      <workItem from="1594280442707" duration="4265000" />
+      <workItem from="1599789699286" duration="7738000" />
+      <workItem from="1599797556446" duration="237000" />
+      <workItem from="1599798017737" duration="2002000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3056" y="551" width="514" height="302" key="#Assign_Data_Sources" timestamp="1599794493132">
+      <screen x="1920" y="0" width="2560" height="1400" />
+    </state>
+    <state x="852" y="409" width="514" height="302" key="#Assign_Data_Sources/0.0.1920.1040/1920.0.2560.1400@0.0.1920.1040" timestamp="1594396460905" />
+    <state x="3056" y="551" key="#Assign_Data_Sources/0.0.1920.1040/1920.0.2560.1400@1920.0.2560.1400" timestamp="1599794493132" />
+    <state x="842" y="381" key="#Notifications" timestamp="1594396292364">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="842" y="381" key="#Notifications/0.0.1920.1040/1920.0.2560.1400@0.0.1920.1040" timestamp="1594396292364" />
+    <state x="2390" y="404" width="1092" height="741" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599797766914">
+      <screen x="1920" y="0" width="2560" height="1400" />
+    </state>
+    <state x="2390" y="404" width="1092" height="741" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.2560.1400@1920.0.2560.1400" timestamp="1599797766914" />
+    <state x="2980" y="454" key="FileChooserDialogImpl" timestamp="1599797533640">
+      <screen x="1920" y="0" width="2560" height="1400" />
+    </state>
+    <state x="2980" y="454" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.2560.1400@1920.0.2560.1400" timestamp="1599797533640" />
+    <state x="3011" y="600" key="Github.CreateGistDialog" timestamp="1599800860137">
+      <screen x="1920" y="0" width="2560" height="1400" />
+    </state>
+    <state x="3011" y="600" key="Github.CreateGistDialog/0.0.1920.1040/1920.0.2560.1400@1920.0.2560.1400" timestamp="1599800860137" />
+    <state x="3056" y="597" width="287" height="264" key="Github.ShareDialog" timestamp="1599800849690">
+      <screen x="1920" y="0" width="2560" height="1400" />
+    </state>
+    <state x="3056" y="597" width="287" height="264" key="Github.ShareDialog/0.0.1920.1040/1920.0.2560.1400@1920.0.2560.1400" timestamp="1599800849690" />
+    <state width="2064" height="472" key="GridCell.Tab.0.bottom" timestamp="1599797540587">
+      <screen x="1920" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1877" height="139" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.2560.1400@0.0.1920.1040" timestamp="1594397415146" />
+    <state width="2064" height="472" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.2560.1400@1920.0.2560.1400" timestamp="1599797540587" />
+    <state width="2064" height="472" key="GridCell.Tab.0.center" timestamp="1599797540587">
+      <screen x="1920" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1877" height="139" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.2560.1400@0.0.1920.1040" timestamp="1594397415146" />
+    <state width="2064" height="472" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.2560.1400@1920.0.2560.1400" timestamp="1599797540587" />
+    <state width="2064" height="472" key="GridCell.Tab.0.left" timestamp="1599797540587">
+      <screen x="1920" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1877" height="139" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.2560.1400@0.0.1920.1040" timestamp="1594397415146" />
+    <state width="2064" height="472" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.2560.1400@1920.0.2560.1400" timestamp="1599797540587" />
+    <state width="2064" height="472" key="GridCell.Tab.0.right" timestamp="1599797540587">
+      <screen x="1920" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1877" height="139" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.2560.1400@0.0.1920.1040" timestamp="1594397415146" />
+    <state width="2064" height="472" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.2560.1400@1920.0.2560.1400" timestamp="1599797540587" />
+    <state width="2064" height="472" key="GridCell.Tab.1.bottom" timestamp="1599797540588">
+      <screen x="1920" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1877" height="139" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.2560.1400@0.0.1920.1040" timestamp="1594397415147" />
+    <state width="2064" height="472" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.2560.1400@1920.0.2560.1400" timestamp="1599797540588" />
+    <state width="2064" height="472" key="GridCell.Tab.1.center" timestamp="1599797540588">
+      <screen x="1920" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1877" height="139" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.2560.1400@0.0.1920.1040" timestamp="1594397415146" />
+    <state width="2064" height="472" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.2560.1400@1920.0.2560.1400" timestamp="1599797540588" />
+    <state width="2064" height="472" key="GridCell.Tab.1.left" timestamp="1599797540587">
+      <screen x="1920" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1877" height="139" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.2560.1400@0.0.1920.1040" timestamp="1594397415146" />
+    <state width="2064" height="472" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.2560.1400@1920.0.2560.1400" timestamp="1599797540587" />
+    <state width="2064" height="472" key="GridCell.Tab.1.right" timestamp="1599797540588">
+      <screen x="1920" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1877" height="139" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.2560.1400@0.0.1920.1040" timestamp="1594397415147" />
+    <state width="2064" height="472" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.2560.1400@1920.0.2560.1400" timestamp="1599797540588" />
+    <state width="2064" height="472" key="GridCell.Tab.2.bottom" timestamp="1599797540588">
+      <screen x="1920" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1877" height="139" key="GridCell.Tab.2.bottom/0.0.1920.1040/1920.0.2560.1400@0.0.1920.1040" timestamp="1594397415147" />
+    <state width="2064" height="472" key="GridCell.Tab.2.bottom/0.0.1920.1040/1920.0.2560.1400@1920.0.2560.1400" timestamp="1599797540588" />
+    <state width="2064" height="472" key="GridCell.Tab.2.center" timestamp="1599797540588">
+      <screen x="1920" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1877" height="139" key="GridCell.Tab.2.center/0.0.1920.1040/1920.0.2560.1400@0.0.1920.1040" timestamp="1594397415147" />
+    <state width="2064" height="472" key="GridCell.Tab.2.center/0.0.1920.1040/1920.0.2560.1400@1920.0.2560.1400" timestamp="1599797540588" />
+    <state width="2064" height="472" key="GridCell.Tab.2.left" timestamp="1599797540588">
+      <screen x="1920" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1877" height="139" key="GridCell.Tab.2.left/0.0.1920.1040/1920.0.2560.1400@0.0.1920.1040" timestamp="1594397415147" />
+    <state width="2064" height="472" key="GridCell.Tab.2.left/0.0.1920.1040/1920.0.2560.1400@1920.0.2560.1400" timestamp="1599797540588" />
+    <state width="2064" height="472" key="GridCell.Tab.2.right" timestamp="1599797540588">
+      <screen x="1920" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1877" height="139" key="GridCell.Tab.2.right/0.0.1920.1040/1920.0.2560.1400@0.0.1920.1040" timestamp="1594397415147" />
+    <state width="2064" height="472" key="GridCell.Tab.2.right/0.0.1920.1040/1920.0.2560.1400@1920.0.2560.1400" timestamp="1599797540588" />
+    <state x="2701" y="344" key="SettingsEditor" timestamp="1599798402504">
+      <screen x="1920" y="0" width="2560" height="1400" />
+    </state>
+    <state x="2701" y="344" key="SettingsEditor/0.0.1920.1040/1920.0.2560.1400@1920.0.2560.1400" timestamp="1599798402504" />
+    <state x="661" y="252" width="598" height="536" key="find.popup" timestamp="1594396837457">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="661" y="252" width="598" height="536" key="find.popup/0.0.1920.1040/1920.0.2560.1400@0.0.1920.1040" timestamp="1594396837457" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1594396827958">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.2560.1400@0.0.1920.1040" timestamp="1594396827958" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/imooc-coupon-service/coupon-template/src/main/java/com/imooc/coupon/TemplateApplication.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
